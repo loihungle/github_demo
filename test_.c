@@ -17,7 +17,7 @@ int main(void)  {
  
 void first(void) {
   int x;
-  x = 25;
+  x =24 ;
   printf("x in first() is %d\n", x);
 }
  

@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdio": "gcc",
+        "BIT_ON_OFF.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

@@ -1,0 +1,11 @@
+
++char: luu 1 ki tu
+chuoi: la tap hop cac ki tu
+C++:
+Lop string: ho tro thao tac tren chuoi -->thu vien string
+---------------CHUOI BEN NGON NGU C--------------
+Chuoi: Tap hop 1 hoac nhieu ki tu --> mang 1 chieu nhieu ki tu
+Khai bao
+char HoTen[30] khai bao mang ki tu chua toi da 29 ki tu
+----DO DAI CHUOI---
+char chuoi[30]="lap trinh"; -->do dai chuoi=9, kich thuoc chuoi 10

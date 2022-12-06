@@ -1,0 +1,28 @@
+Trong bo nho may tinh chia lam 4 vung nho co ban:
+**Code segment
+luu tru ma may(0,1)
+**Data segment
+vung nho luu tru cac bien static(tinh), va bien toan cuc, pham vi
+hoat dong tu vi tri khoi tao, khai bao tro xuong
+**Stack segment
+Vung nho luu tru {bien cuc bo}, vung nho do CPU quan li
+**Heap segment
+Vung nho nay la vung nho khong do CPU quan li
+------------------------KHAI NIEM CON TRO-BIEN CON TRO---------------------
+1 bien binh thuong gom 2 thanh phan:
++ Dia tri
++ Dia chi
+Bien con tro: Gom 2 thanh phan + mien gia tri
++ Gia tri
++ Dia chi
++ Mien gia tri
+Mien gia tri la dia chi cua bien ma con tro do tro toi
+------------------------KHAI NIEM CON TRO VO KIEU
+*Trong ngon ngu lap trinh C co cac ham cap phat bo nho cho con tro nhu:
++malloc
++calloc
++realloc
+Ham free(): Giai phong bo nho cho con tro
+------------------MANG DONG- CAP PHAT DONG--------------
+Mang dong la mang co the thay doi so luong phan tu cua mang trong qua trinh chuong trinh chay
+<kieu du lieu cua mang>*<ten mang - ten con tro quan li mang>=new<kieu du lieu cua mang>[so luong phan tu cua mang]
